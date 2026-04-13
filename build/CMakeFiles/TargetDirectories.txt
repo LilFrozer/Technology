@@ -1,3 +1,0 @@
-/Users/alekseypodoplelov/Documents/tg-bot/build/CMakeFiles/tgbot.dir
-/Users/alekseypodoplelov/Documents/tg-bot/build/CMakeFiles/edit_cache.dir
-/Users/alekseypodoplelov/Documents/tg-bot/build/CMakeFiles/rebuild_cache.dir
