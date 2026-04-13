@@ -589,10 +589,43 @@ CMakeFiles/tgbot.dir/src/Bot.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/sr
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/binomial_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/cauchy_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/clamp_to_integral.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/default_random_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discard_block_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discrete_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/exponential_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/gamma_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/generate_canonical.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/geometric_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/independent_bits_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_seed_sequence.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/knuth_b.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/log2.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/lognormal_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/normal_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/poisson_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/random_device.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/ranlux.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/student_t_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/weibull_distribution.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/access.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/concepts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/container_compatible_range.h \
@@ -828,6 +861,7 @@ CMakeFiles/tgbot.dir/src/Bot.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/sr
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/initializer_list \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iomanip \
@@ -850,6 +884,7 @@ CMakeFiles/tgbot.dir/src/Bot.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/sr
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/queue \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/random \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/shared_mutex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream \
@@ -4274,8 +4309,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/system/errc.hpp:
 
-/opt/homebrew/include/boost/system/detail/throws.hpp:
-
 /opt/homebrew/include/boost/system/detail/system_category_impl.hpp:
 
 /opt/homebrew/include/boost/system/detail/std_category_impl.hpp:
@@ -4456,41 +4489,55 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/intrusive/detail/iiterator.hpp:
 
+/opt/homebrew/include/boost/intrusive/detail/hook_traits.hpp:
+
+/opt/homebrew/include/boost/intrusive/detail/get_value_traits.hpp:
+
 /opt/homebrew/include/boost/intrusive/detail/generic_hook.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/impl/context.hpp:
+/opt/homebrew/include/boost/type_traits/is_fundamental.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/function_detector.hpp:
+/opt/homebrew/include/boost/intrusive/detail/exception_disposer.hpp:
+
+/opt/homebrew/include/boost/intrusive/detail/empty_node_checker.hpp:
 
 /opt/homebrew/include/boost/intrusive/detail/ebo_functor_holder.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/scheduler.ipp:
+/opt/homebrew/include/boost/intrusive/detail/config_end.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h:
+/opt/homebrew/include/boost/intrusive/detail/config_begin.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/array_initializer.hpp:
+/opt/homebrew/include/boost/throw_exception.hpp:
 
-/opt/homebrew/include/boost/asio/detail/posix_event.hpp:
+/opt/homebrew/include/boost/intrusive/detail/bstree_algorithms_base.hpp:
 
-/opt/homebrew/include/boost/intrusive/bstree_algorithms.hpp:
+/opt/homebrew/include/boost/intrusive/detail/assert.hpp:
+
+/opt/homebrew/include/boost/intrusive/detail/algorithm.hpp:
+
+/opt/homebrew/include/boost/intrusive/detail/algo_type.hpp:
+
+/opt/homebrew/include/boost/intrusive/circular_list_algorithms.hpp:
 
 /opt/homebrew/include/boost/intrusive/bstree.hpp:
 
-/opt/homebrew/include/boost/asio/detail/cstddef.hpp:
-
-/opt/homebrew/include/boost/intrusive/bs_set_hook.hpp:
+/opt/homebrew/include/boost/exception/exception.hpp:
 
 /opt/homebrew/include/boost/detail/workaround.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/size.h:
-
-/opt/homebrew/include/boost/describe/modifiers.hpp:
-
 /opt/homebrew/include/boost/describe/detail/void_t.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits:
+/opt/homebrew/include/boost/describe/detail/config.hpp:
 
-/opt/homebrew/include/boost/describe/detail/cx_streq.hpp:
+/opt/homebrew/include/boost/describe/bases.hpp:
+
+/opt/homebrew/include/boost/core/span.hpp:
+
+/opt/homebrew/include/boost/core/pointer_traits.hpp:
+
+/opt/homebrew/include/boost/core/noinit_adaptor.hpp:
+
+/opt/homebrew/include/boost/core/launder.hpp:
 
 /opt/homebrew/include/boost/core/ignore_unused.hpp:
 
@@ -4532,6 +4579,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/type_traits/is_base_of.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/clamp_to_integral.h:
+
 /opt/homebrew/include/boost/config/detail/suffix.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/transform.h:
@@ -4551,8 +4600,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/beast/websocket/impl/ssl.hpp:
 
 /opt/homebrew/include/boost/beast/ssl/ssl_stream.hpp:
-
-/opt/homebrew/include/boost/exception/exception.hpp:
 
 /opt/homebrew/include/boost/beast/ssl.hpp:
 
@@ -4674,8 +4721,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/beast/core/impl/flat_stream.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/flat_static_buffer.hpp:
-
 /opt/homebrew/include/boost/beast/core/impl/flat_buffer.hpp:
 
 /opt/homebrew/include/boost/beast/core/impl/file_stdio.ipp:
@@ -4753,10 +4798,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/beast/core/async_base.hpp:
 
 /opt/homebrew/include/boost/beast/core/detail/flat_stream.hpp:
-
-/opt/homebrew/include/boost/system/detail/error_code.hpp:
-
-/opt/homebrew/include/boost/beast/core/detail/buffers_ref.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
 
@@ -4892,12 +4933,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/io_context.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_move_assign.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_setsize.h:
-
-/opt/homebrew/include/boost/asio/inline_executor.hpp:
-
 /opt/homebrew/include/boost/asio/impl/io_context.ipp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/strong_order.h:
@@ -4964,10 +4999,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/execution/bad_executor.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/invoke.h:
-
-/opt/homebrew/include/boost/intrusive/detail/default_header_holder.hpp:
-
 /opt/homebrew/include/boost/asio/execution/any_executor.hpp:
 
 /opt/homebrew/include/openssl/tls1.h:
@@ -4987,10 +5018,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h:
 
 /opt/homebrew/include/boost/asio/detail/wait_op.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_clr.h:
-
-/opt/homebrew/include/boost/asio/detail/tss_ptr.hpp:
 
 /opt/homebrew/include/boost/asio/detail/timer_scheduler_fwd.hpp:
 
@@ -5040,6 +5067,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/detail/resolve_op.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/default_random_engine.h:
+
 /opt/homebrew/include/boost/asio/detail/resolve_endpoint_op.hpp:
 
 /opt/homebrew/include/boost/asio/detail/reactor_op.hpp:
@@ -5086,6 +5115,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/detail/posix_global.hpp:
 
+/opt/homebrew/include/boost/intrusive/bstree_algorithms.hpp:
+
+/opt/homebrew/include/boost/asio/detail/posix_event.hpp:
+
 /opt/homebrew/include/boost/asio/detail/op_queue.hpp:
 
 /opt/homebrew/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:
@@ -5116,12 +5149,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/detail/initiation_base.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/climits:
-
-/opt/homebrew/include/boost/asio/detail/initiate_dispatch.hpp:
-
-/opt/homebrew/include/boost/intrusive/detail/assert.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_floating_point.h:
 
 /opt/homebrew/include/boost/asio/detail/impl/timer_queue_set.ipp:
@@ -5145,6 +5172,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/asio/prefer.hpp:
 
 /opt/homebrew/include/boost/asio/detail/impl/posix_mutex.ipp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
 
 /opt/homebrew/include/boost/asio/detail/impl/kqueue_reactor.hpp:
 
@@ -5198,11 +5227,15 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_move.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__undef_macros:
-
 /opt/homebrew/include/boost/assert/source_location.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__undef_macros:
+
 /opt/homebrew/include/boost/asio/detail/deadline_timer_service.hpp:
+
+/opt/homebrew/include/boost/intrusive/bs_set_hook.hpp:
+
+/opt/homebrew/include/boost/asio/detail/cstddef.hpp:
 
 /opt/homebrew/include/openssl/lhash.h:
 
@@ -5284,16 +5317,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/asio/basic_stream_socket.hpp:
 
-/opt/homebrew/include/boost/asio/detail/scoped_ptr.hpp:
-
-/opt/homebrew/include/openssl/pemerr.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
-
-/opt/homebrew/include/boost/beast/core/detail/static_string.hpp:
-
-/opt/homebrew/include/boost/asio/basic_socket_streambuf.hpp:
-
 /opt/homebrew/include/openssl/macros.h:
 
 /opt/homebrew/include/boost/asio/ssl/detail/impl/openssl_init.ipp:
@@ -5313,10 +5336,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/data.h:
 
 /opt/homebrew/include/boost/asio/associator.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/uio.h:
-
-/opt/homebrew/include/boost/asio/associated_immediate_executor.hpp:
 
 /opt/homebrew/include/boost/asio/associated_executor.hpp:
 
@@ -5340,12 +5359,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_wchar_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_mismatch.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/extent.h:
-
-/opt/homebrew/include/boost/intrusive/detail/equal_to_value.hpp:
-
 /opt/homebrew/include/boost/optional/detail/optional_aligned_storage.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
@@ -5359,8 +5372,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_nullptr_t.h:
-
-/Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_null.h:
 
 /opt/homebrew/include/boost/type_traits/is_swappable.hpp:
 
@@ -5382,15 +5393,9 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stdarg___gnuc_va_list.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_stdlib.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/___wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wctype.h:
 
 /opt/homebrew/include/openssl/randerr.h:
 
@@ -5403,6 +5408,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/un.h:
+
+/opt/homebrew/include/boost/asio/associated_immediate_executor.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/uio.h:
 
 /opt/homebrew/include/boost/intrusive/pointer_rebind.hpp:
 
@@ -5427,6 +5436,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/select.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/___wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/weibull_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/qos.h:
 
@@ -5479,8 +5490,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int16_t.h:
-
-/opt/homebrew/include/boost/core/pointer_traits.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int.h:
 
@@ -5552,13 +5561,17 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_zero.h:
 
+/opt/homebrew/include/boost/type_traits/has_trivial_move_assign.hpp:
+
+/opt/homebrew/include/boost/asio/inline_executor.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_setsize.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_set.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_errno_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h:
-
-/opt/homebrew/include/boost/intrusive/detail/empty_node_checker.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_clock_t.h:
 
@@ -5576,8 +5589,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
-/opt/homebrew/include/boost/intrusive/detail/config_begin.hpp:
-
 /opt/homebrew/include/boost/beast/http/basic_file_body.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
@@ -5589,8 +5600,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
 
 /opt/homebrew/include/boost/asio/buffer.hpp:
 
@@ -5613,6 +5622,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h:
 
@@ -5694,6 +5705,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/random:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/version:
 
 /opt/homebrew/include/boost/asio/detail/push_options.hpp:
@@ -5730,6 +5743,12 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdexcept:
 
+/opt/homebrew/include/boost/intrusive/detail/array_initializer.hpp:
+
+/opt/homebrew/include/boost/asio/detail/impl/scheduler.ipp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h:
+
 /opt/homebrew/include/boost/type_traits/is_base_and_derived.hpp:
 
 /opt/homebrew/include/boost/type_traits/has_right_shift.hpp:
@@ -5745,8 +5764,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/asio/ssl/impl/context.ipp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio:
-
-/opt/homebrew/include/boost/intrusive/detail/get_value_traits.hpp:
 
 /opt/homebrew/include/boost/asio/detail/assert.hpp:
 
@@ -5779,8 +5796,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/new:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
-
-/opt/homebrew/include/boost/intrusive/detail/algo_type.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
@@ -5862,13 +5877,15 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy_if.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/void_t.h:
-
 /opt/homebrew/include/boost/asio/detail/scheduler_operation.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/void_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath:
 
-/opt/homebrew/include/boost/core/span.hpp:
+/opt/homebrew/include/boost/asio/detail/initiate_dispatch.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/climits:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono:
 
@@ -5877,6 +5894,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/mp11/detail/mp_list_v.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/next.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/ranlux.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
 
@@ -5892,21 +5911,23 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/gcd_lcm.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/any:
 
-/opt/homebrew/include/boost/type_traits/is_assignable.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_abort:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm:
+/opt/homebrew/include/boost/asio/detail/object_pool.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/make_shared.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_generate.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_out_result.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/poll.h:
 
-/opt/homebrew/include/boost/type_traits/remove_extent.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/to_underlying.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__variant/monostate.h:
+/opt/homebrew/include/boost/asio/detail/scheduler_task.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h:
 
 /opt/homebrew/include/boost/beast/http/fields_fwd.hpp:
 
@@ -5920,21 +5941,33 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_copy_if.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/signal.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_mbstate_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/pair.h:
 
-/opt/homebrew/include/boost/type_traits/has_pre_increment.hpp:
+/opt/homebrew/include/boost/asio/ssl/detail/openssl_init.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/array.h:
+/opt/homebrew/include/boost/intrusive/detail/key_nodeptr_comp.hpp:
 
-/opt/homebrew/include/boost/asio/execution/relationship.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/in_place.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_weak_order_fallback.h:
+/opt/homebrew/include/boost/asio/impl/append.hpp:
 
-/opt/homebrew/include/boost/system/generic_category.hpp:
+/opt/homebrew/include/boost/beast/http/buffer_body_fwd.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exception_guard.h:
+/opt/homebrew/include/boost/system/detail/error_condition.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_remove_copy_if.h:
+
+/opt/homebrew/include/boost/asio/impl/multiple_exceptions.ipp:
+
+/opt/homebrew/include/boost/system/error_category.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exchange.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/empty.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/declval.h:
 
@@ -5942,9 +5975,7 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/convert_to_integral.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_count.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/as_lvalue.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_copy_assignable.h:
 
@@ -5959,10 +5990,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/beast/core/rate_policy.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
-
-/opt/homebrew/include/boost/throw_exception.hpp:
-
-/opt/homebrew/include/boost/intrusive/detail/bstree_algorithms_base.hpp:
 
 /opt/homebrew/include/boost/beast/http/detail/basic_parser.ipp:
 
@@ -6005,6 +6032,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/sortable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_swappable.h:
+
+/opt/homebrew/include/boost/intrusive/detail/default_header_holder.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/invoke.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_signed_integer.h:
 
@@ -6052,6 +6083,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/bit_reference.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
@@ -6060,15 +6093,11 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/ordering.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_move_constructible.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_equality_comparable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/independent_bits_engine.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
 
@@ -6128,8 +6157,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h:
 
-/opt/homebrew/include/boost/core/noinit_adaptor.hpp:
-
 /opt/homebrew/include/boost/asio/detail/array.hpp:
 
 /opt/homebrew/include/boost/cstdint.hpp:
@@ -6139,6 +6166,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_offsetof.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_stdlib.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
 
@@ -6158,15 +6189,17 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
 
+/opt/homebrew/include/boost/intrusive/detail/equal_to_value.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_mismatch.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/extent.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/csignal:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/normal_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/enable_if.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_min_element.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/__wctype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/unwrap_ref.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/enable_insertable.h:
 
@@ -6181,6 +6214,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
 
 /opt/homebrew/include/boost/container_hash/detail/hash_tuple_like.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_weak_order_fallback.h:
+
+/opt/homebrew/include/boost/asio/execution/relationship.hpp:
 
 /opt/homebrew/include/boost/asio/detail/timer_scheduler.hpp:
 
@@ -6228,6 +6265,14 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h:
 
+/opt/homebrew/include/openssl/pemerr.h:
+
+/opt/homebrew/include/boost/asio/basic_socket_streambuf.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
+
+/opt/homebrew/include/boost/beast/core/detail/static_string.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/from_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/aligned_union.h:
@@ -6242,11 +6287,15 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_count.h:
 
+/opt/homebrew/include/boost/type_traits/is_assignable.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_types.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
 
@@ -6255,20 +6304,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
-
-/opt/homebrew/include/boost/asio/impl/append.hpp:
-
-/opt/homebrew/include/boost/beast/http/buffer_body_fwd.hpp:
-
-/opt/homebrew/include/boost/system/detail/error_condition.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_remove_copy_if.h:
-
-/opt/homebrew/include/boost/asio/impl/multiple_exceptions.ipp:
-
-/opt/homebrew/include/boost/system/error_category.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward.h:
 
 /opt/homebrew/include/boost/asio/is_applicable_property.hpp:
 
@@ -6280,13 +6315,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_element.h:
 
-/opt/homebrew/include/boost/describe/bases.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_iovec_t.h:
 
 /opt/homebrew/include/boost/asio/execution/mapping.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h:
 
@@ -6314,13 +6349,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/tuple:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/auto_cast.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/operations.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__std_mbstate_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/auto_cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_type.h:
 
@@ -6378,6 +6413,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/ref_view.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_move_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h:
@@ -6385,6 +6422,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/movable_box.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/binomial_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_find_if.h:
 
@@ -6424,11 +6463,23 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/identity.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/student_t_distribution.h:
+
 /opt/homebrew/include/boost/asio/ssl/context_base.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_clr.h:
+
+/opt/homebrew/include/boost/asio/detail/tss_ptr.hpp:
+
+/opt/homebrew/include/boost/asio/unyield.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/netdb.h:
 
@@ -6439,6 +6490,30 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdint.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/generate_canonical.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discrete_distribution.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/ordering.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_move_constructible.h:
+
+/opt/homebrew/include/boost/system/detail/error_code.hpp:
+
+/opt/homebrew/include/boost/beast/core/detail/buffers_ref.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/cauchy_distribution.h:
+
+/opt/homebrew/include/boost/intrusive/detail/function_detector.hpp:
+
+/opt/homebrew/include/boost/asio/ssl/impl/context.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/minmax.h:
 
@@ -6476,6 +6551,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/partial_sum.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wctype.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_width.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/iota.h:
@@ -6503,8 +6580,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/mutex.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/any:
 
 /opt/homebrew/include/boost/type_traits/has_bit_and_assign.hpp:
 
@@ -6570,10 +6645,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/signal.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/pair.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/copysign.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale:
@@ -6591,6 +6662,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill.h:
+
+/opt/homebrew/include/boost/describe/modifiers.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/size.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
 
@@ -6632,11 +6707,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_abort:
-
 /opt/homebrew/include/boost/beast/core/detail/variant.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/result_of.h:
+
+/opt/homebrew/include/boost/system/detail/throws.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
 
@@ -6796,8 +6873,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_integer.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_char.h:
@@ -6807,16 +6882,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_string.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_fwd.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h:
-
-/opt/homebrew/include/openssl/hmac.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/exclusive_scan.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/cmp.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/exception:
 
@@ -6848,6 +6913,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/escaped_output_table.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/concepts.h:
 
 /opt/homebrew/include/boost/version.hpp:
@@ -6863,10 +6930,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/merge.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/libdispatch.h:
 
@@ -6893,6 +6956,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_status.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_count.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_fun_result.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
@@ -6952,12 +7019,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/find_if.h:
 
-/opt/homebrew/include/boost/asio/ssl/detail/openssl_init.hpp:
-
-/opt/homebrew/include/boost/intrusive/detail/key_nodeptr_comp.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/in_place.h:
-
 /opt/homebrew/include/boost/asio/detail/resolver_service_base.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h:
@@ -6965,6 +7026,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arpa/inet.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/movable.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/derived_from.h:
 
@@ -7026,15 +7089,17 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/statically_widen.h:
 
-/opt/homebrew/include/boost/asio/detail/scheduler_task.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/set_symmetric_difference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/weekday.h:
+
+/opt/homebrew/include/openssl/hmac.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/exclusive_scan.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/concepts.h:
 
@@ -7042,7 +7107,9 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint64_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exchange.h:
+/opt/homebrew/include/boost/describe/detail/cx_streq.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits:
 
 /opt/homebrew/include/openssl/asn1.h:
 
@@ -7214,6 +7281,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/beast/core/impl/multi_buffer.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/knuth_b.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/different_from.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like_ext.h:
@@ -7234,6 +7303,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse.h:
 
+/opt/homebrew/include/boost/asio/detail/scoped_ptr.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
+
 /opt/homebrew/include/boost/smart_ptr/detail/sp_convertible.hpp:
 
 /opt/homebrew/include/boost/beast/http/chunk_encode.hpp:
@@ -7241,10 +7314,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/_param.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ios/fpos.h:
-
-/opt/homebrew/include/boost/describe/members.hpp:
 
 /opt/homebrew/include/boost/beast/websocket/teardown.hpp:
 
@@ -7306,6 +7375,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/exponential_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_output.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/month.h:
@@ -7322,9 +7393,23 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_partition_copy.h:
 
+/opt/homebrew/include/boost/mp11/detail/mp_copy_if.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_mbstate_t.h:
+
+/opt/homebrew/include/boost/type_traits/has_pre_increment.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/array.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_shuffle.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_cond_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/random_device.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
 
@@ -7352,11 +7437,7 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/beast/core/flat_stream.hpp:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_const.h:
-
-/opt/homebrew/include/boost/intrusive/circular_list_algorithms.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/class_or_enum.h:
 
@@ -7452,11 +7533,11 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /opt/homebrew/include/boost/beast/http/type_traits.hpp:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_equal_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
 
@@ -7468,7 +7549,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/assignable.h:
 
+/Library/Developer/CommandLineTools/usr/lib/clang/16/include/__stddef_null.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h:
+
 /opt/homebrew/include/openssl/conftypes.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream:
 
 /opt/homebrew/include/boost/config/detail/select_stdlib_config.hpp:
 
@@ -7480,13 +7567,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_fill.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/gamma_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_entry.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_is_permutation.h:
-
-/opt/homebrew/include/boost/core/launder.hpp:
 
 /opt/homebrew/include/openssl/conf.h:
 
@@ -7518,15 +7605,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/poll.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_generate.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/unique_lock.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partition.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_for_each.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_find.h:
 
@@ -7550,11 +7635,11 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_fill_n.h:
 
-/opt/homebrew/include/boost/intrusive/detail/hook_traits.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/uniform_random_bit_generator_adaptor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/destruct_n.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
 
 /opt/homebrew/include/boost/asio/impl/execution_context.ipp:
 
@@ -7565,6 +7650,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/any_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_clamp.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_seed_sequence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/common_reference_with.h:
 
@@ -7580,15 +7667,13 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/is_eq.h:
 
-/opt/homebrew/include/boost/asio/detail/object_pool.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/to_underlying.h:
-
-/opt/homebrew/include/boost/intrusive/detail/config_end.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/__wctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_min_element.h:
 
 /opt/homebrew/include/boost/asio/detail/keyword_tss_ptr.hpp:
 
@@ -7616,17 +7701,9 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each.h:
 
-/opt/homebrew/include/boost/type_traits/has_left_shift.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h:
-
-/opt/homebrew/include/boost/enable_shared_from_this.hpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/variant:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_void.h:
-
-/opt/homebrew/include/boost/asio/unyield.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_is_partitioned.h:
 
@@ -7648,8 +7725,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/operations.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/as_lvalue.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_short.h:
@@ -7669,6 +7744,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/view_interface.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/cmp.h:
 
 /opt/homebrew/include/boost/beast/http/rfc7230.hpp:
 
@@ -7698,6 +7777,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/perms.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/merge.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h:
 
 /opt/homebrew/include/boost/asio/detail/pop_options.hpp:
@@ -7708,7 +7791,7 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_fill.h:
 
-/opt/homebrew/include/boost/intrusive/detail/algorithm.hpp:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/gcd_lcm.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/endian.h:
 
@@ -7724,8 +7807,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
 
 /opt/homebrew/include/boost/config/compiler/clang_version.hpp:
@@ -7739,8 +7820,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale:
-
-/opt/homebrew/include/boost/describe/detail/config.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backend.h:
 
@@ -7762,6 +7841,12 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h:
 
+/opt/homebrew/include/boost/beast/core/impl/flat_static_buffer.hpp:
+
+/opt/homebrew/include/boost/system/generic_category.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exception_guard.h:
+
 /opt/homebrew/include/boost/asio/completion_condition.hpp:
 
 /opt/homebrew/include/boost/mp11/detail/mp_is_value_list.hpp:
@@ -7779,6 +7864,14 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /opt/homebrew/include/boost/optional/detail/optional_factory_support.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_all_of.h:
+
+/opt/homebrew/include/boost/type_traits/remove_extent.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__variant/monostate.h:
+
+/opt/homebrew/include/boost/smart_ptr/make_shared.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_out_result.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/netinet/tcp.h:
 
@@ -7814,6 +7907,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_find_end.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/includes.h:
@@ -7840,6 +7935,14 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_string.h:
 
+/opt/homebrew/include/openssl/rsaerr.h:
+
+/opt/homebrew/include/boost/system/detail/snprintf.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/operations.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h:
+
 /opt/homebrew/include/boost/asio/execution/inline_exception_handling.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/reference_wrapper.h:
@@ -7863,10 +7966,6 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_log2.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_printf.h:
-
-/opt/homebrew/include/boost/type_traits/is_fundamental.hpp:
-
-/opt/homebrew/include/boost/intrusive/detail/exception_disposer.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctype.h:
 
@@ -7905,6 +8004,8 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fma.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdlib:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/types.h:
 
@@ -7952,6 +8053,10 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_suseconds_t.h:
 
+/opt/homebrew/include/boost/describe/members.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ios/fpos.h:
+
 /opt/homebrew/include/boost/move/utility_core.hpp:
 
 /opt/homebrew/include/boost/asio/impl/system_executor.hpp:
@@ -7962,7 +8067,11 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sort.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/empty.h:
+/opt/homebrew/include/boost/type_traits/has_left_shift.hpp:
+
+/opt/homebrew/include/boost/enable_shared_from_this.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h:
 
@@ -7972,11 +8081,7 @@ CMakeFiles/tgbot.dir/src/main.cpp.o: /Users/alekseypodoplelov/Documents/tg-bot/s
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/fence.h:
 
-/opt/homebrew/include/openssl/rsaerr.h:
-
-/opt/homebrew/include/boost/system/detail/snprintf.hpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/operations.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/unwrap_ref.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/_limits.h:
 

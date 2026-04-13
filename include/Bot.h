@@ -6,6 +6,8 @@
 #include <string>
 #include "json.hpp"
 #include <cstdint>
+#include <map>
+#include "array"
 using nlohmann::json;
 
 #include <boost/beast/core.hpp>
@@ -51,6 +53,9 @@ private:
     ssl::context& ctx_;
     std::unique_ptr<beast::ssl_stream<beast::tcp_stream>> stream_;
     int64_t last_update_id_ = 0;
+
+    // Пользователи, у которых уже активно загружается видео
+    std::map<int64_t, bool> m_activeDowloaders_;
 protected:
     json sendRequest(const std::string &method, const json &payload = json::object()) override final;
     void sendMessage(int64_t chat_id, const std::string &text) override final;
@@ -66,6 +71,9 @@ public:
     ~MovieBot() = default;
     void run() override final;
     void setupSSLContext();
+    void sendMultipartRequest(const std::string& method,
+                            const std::vector<char>& body,
+                            const std::string& boundary);
 };
 }
 
